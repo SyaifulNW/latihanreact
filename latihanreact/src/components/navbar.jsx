@@ -1,7 +1,7 @@
 function Navbar() {
   return (
     <div className="n">
-      <h1 className="text-center text-green-600 text-3xl font-bold">ikan</h1>
+      <h1 className="text-center text-green-600 text-3xl font-bold">leleeee</h1>
 
 
       <div className="flex flex-col items-start gap-10">
